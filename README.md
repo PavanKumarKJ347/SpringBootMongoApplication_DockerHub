@@ -58,8 +58,6 @@ Java and Maven should be installed as a prerequisite to Build Project Code.
 ## Deploy Application to Kubernetes Cluster
 ```bash
   kubectl apply -f SpringBootMongo.yaml
-
-  helm install helmwebapplication helmwebapplication -n production
 ```
 Note:
-Application can be deployed to Kubernetes Cluster using Kubernetes Manifest Files as well as Helm Chart.
+Application Should be Successfully Deployed to Kubernetes Cluster.
