@@ -59,5 +59,5 @@ Java and Maven should be installed as a prerequisite to Build Project Code.
 ```bash
   kubectl apply -f SpringBootMongo.yaml
 ```
-Note:
-Application Should be Successfully Deployed to Kubernetes Cluster.
+**Note**<br>
+**Application Should be Successfully Deployed to Kubernetes Cluster.**
