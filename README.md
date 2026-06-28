@@ -24,13 +24,12 @@
 
 ## Build Project
 
-Build Automation Tool Maven Can be Used to Build This Project as This Project is Developed Using Java Programming Language.
+**Build Automation Tool Maven Can be Used to Build This Project as This Project is Developed Using Java Programming Language.**
 
 ```bash
   mvn clean package
 ```
-Note:
-Java and Maven Should be Installed as a Prerequisite to Build Project Code.
+**Java and Maven Should be Installed as a Prerequisite to Build Project Code.**
 
 ## Build Docker Image
 ```bash
@@ -57,5 +56,5 @@ Java and Maven Should be Installed as a Prerequisite to Build Project Code.
 ```bash
   kubectl apply -f SpringBootMongo.yaml
 ```
-**Note**<br>
+
 **Application Should be Successfully Deployed to Kubernetes Cluster.**
